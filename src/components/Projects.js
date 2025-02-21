@@ -11,16 +11,16 @@ const Projects = () => {
       title: "Grasper - A Productivity App",
       category: "Software Development",
       description: "Built a productivity suite application which includes features like Pomodoro Clock, Flash Cards and To-Do Lists.",
-      techStack: ["Flutter", "Firebase", "Firestore", "Riverpod"],
-      image: "/assets/productivity.jpg",
+      techStack: ["Flutter", "Firebase", "Html/CSS", "Firestore", "Riverpod"],
+      image: "https://images.unsplash.com/photo-1497316730643-415fac54a2af?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       link: "https://github.com/AdityaKochar22/Grasper-App"
     },
     {
       title: "LectureMate App",
       category: "Software Development",
       description: "A Flutter & Django-powered system enabling teachers to create, display, and manage lectures efficiently.",
-      techStack: ["Flutter", "Django", "Html/CSS", "Riverpod"],
-      image: "/assets/lectmate.jpg",
+      techStack: ["Flutter", "Django", "Html/CSS", "SQLite", "Riverpod"],
+      image: "/assets/images/lectmate.jpg",
       link: "https://github.com/AdityaKochar22/TeachingLecture-Creater-Displayer"
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
       category: "Data Analysis",
       description: "The Project uncovers key insights of udemy courses dataset leveraging data visualization and analytics.",
       techStack: ["Python", "Matplotlib", "Streamlit", "Altair"],
-      image: "/assets/udemy.jpg",
+      image: "/assets/images/udemy.jpg",
       link: "https://github.com/AdityaKochar22/Udemy-Course-Analysis"
     },
     {
@@ -36,7 +36,7 @@ const Projects = () => {
       category: "AI/ML",
       description: "The Project utilizes machine learning to analyze sleep patterns and detect potential disorders for early diagnosis and intervention.",
       techStack: ["Python", "Scikit-learn", "Matplotlib", "Models"],
-      image: "/assets/sleep.jpg",
+      image: "/assets/images/sleep.jpg",
       link: "https://github.com/AdityaKochar22/Sleep_Disorder_Pred"
     },
     {
@@ -44,7 +44,7 @@ const Projects = () => {
       category: "Data Analysis",
       description: "This Power BI dashboard analyzes FIFA World Cup 2022 team performance, match stats, and key tournament trends through insightful visualizations.",
       techStack: ["Python", "Power BI", "DAX", "Matplotlib"],
-      image: "/assets/fifa.jpg",
+      image: "/assets/images/fifa.jpg",
       link: "https://github.com/AdityaKochar22/FifaWC_22_Analysis"
     },
     {
@@ -52,7 +52,7 @@ const Projects = () => {
       category: "Data Analysis",
       description: "This project analyzes patient records to optimize hospital resource utilization, patient care, and financial planning through visual insights.",
       techStack: ["Python", "Power BI", "Scikit-learn", "DAX"],
-      image: "/assets/hospital.jpg",
+      image: "/assets/images/hospital.jpg",
       link: "https://github.com/AdityaKochar22/Healthcare_Analysis"
     },
     {
@@ -60,7 +60,7 @@ const Projects = () => {
       category: "AI/ML",
       description: "This project uses machine learning to detect Parkinson's Disease, featuring data preprocessing, model building, and a Streamlit-based prediction app.",
       techStack: ["Python", "Libroso", "Scikit-learn", "Streamlit"],
-      image: "/assets/parkinson.jpg",
+      image: "/assets/images/parkinson.jpg",
       link: "https://github.com/AdityaKochar22/Parkinson_Detection"
     },
     {
@@ -68,7 +68,7 @@ const Projects = () => {
       category: "Data Analysis",
       description: "This dashboard analyzes best-selling books, providing insights into sales performance, author influence, genre popularity, and market trends.",
       techStack: ["Python", "Power BI", "DAX", "Matplotlib"],
-      image: "/assets/books.jpg",
+      image: "/assets/images/books.jpg",
       link: "https://github.com/AdityaKochar22/BestSellingBooks_Analysis"
     }
   ];

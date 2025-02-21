@@ -9,7 +9,7 @@ const About = () => {
           <div className="col-lg-5 col-md-6">
             <div>
               <img 
-                src="/assets/about.jpg" 
+                src="/assets/images/about.jpg" 
                 alt="Aditya Kochar" 
                 className="img-fluid rounded"
               />
